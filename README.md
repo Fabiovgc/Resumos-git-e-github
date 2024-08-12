@@ -35,7 +35,7 @@ Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a
 
 ### 4) Adicione suas alterações à "staging area"
-Utilize o comando `git add .` para adicionar sua alteração à "staging area" no Git.
+Utilize o comando `git add .` para adicionar todas as suas alterações à "staging area" no Git.
 
 ### 5) Crie um Commit
 Crie um commit e adicione a mensagem indicando a alteração.
